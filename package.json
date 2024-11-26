@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/voluptatibus-hic-hic-sint",
-  "version": "10.24.176",
+  "version": "10.24.177",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -496,5 +496,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/voluptatibus-hic-hic-sint/issues"
   },
-  "packageManager": "yarn@4.5.2"
+  "packageManager": "yarn@4.5.3"
 }
